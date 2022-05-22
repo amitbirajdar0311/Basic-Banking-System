@@ -1,0 +1,14 @@
+
+public class amit {
+    public static void ApexMethod(){
+        Integer value=25;
+        if(math.mod(value, 2)==0){
+            system.debug(value + 'is even number');
+            
+        }
+        else{
+            system.debug(value+'is odd number');
+        }
+    }
+
+}
